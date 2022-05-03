@@ -1,0 +1,4 @@
+<apex:page controller="test">
+    
+    hello world!
+</apex:page>
